@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+docx2txt
+pandas
+langchain
+langchain-community
+langchain-openai
+openai
+faiss-cpu
