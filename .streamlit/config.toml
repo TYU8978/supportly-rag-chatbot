@@ -1,0 +1,5 @@
+# .streamlit/config.toml
+
+[server]
+# Increase max upload size to 600 MB (default is 200)
+maxUploadSize = 600
